@@ -34,8 +34,7 @@ import java.util.Scanner;
             System.out.println("1. New York City");
             System.out.println("2. Chicago");
             System.out.println("3. Washington D.C.");
-            System.out.println("4. Los Angeles" +
-                    "");
+            System.out.println("4. Los Angeles"Ee);
 
             int answer = scanner.nextInt();
 
